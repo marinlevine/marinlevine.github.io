@@ -17,3 +17,6 @@ This data shows the relationship between whether people smoke and their income. 
 
 ## LeLaf Timeline 
 [<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=134TrKxN-NJVj-yQYW2kSf5KUsr5d93KinnMO8WczCpg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>](https://docs.google.com/spreadsheets/d/134TrKxN-NJVj-yQYW2kSf5KUsr5d93KinnMO8WczCpg/edit#gid=0)
+
+## Apple Product Timeline
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=13W7Lns_3XaWqNwmLy08TGxe2j831X5P1bi9hTv14B3s&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
