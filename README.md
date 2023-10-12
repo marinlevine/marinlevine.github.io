@@ -22,4 +22,4 @@ This data shows the relationship between whether people smoke and their income. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=13W7Lns_3XaWqNwmLy08TGxe2j831X5P1bi9hTv14B3s&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Percent of Undergraduate Enrollment in each college at Lehigh 2021
-![https://github.com/marinlevine/marinlevine.github.io/blob/main/ChartBuilder.png?raw=true](marinlevine.github.com/repository/img/imagename.jpg)
+![ChartBuilder](https://github.com/marinlevine/marinlevine.github.io/blob/main/ChartBuilder.png?raw=true)
