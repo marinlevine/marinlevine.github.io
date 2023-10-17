@@ -23,3 +23,5 @@ This data shows the relationship between whether people smoke and their income. 
 
 ## Percent of Undergraduate Enrollment in each college at Lehigh 2021
 ![ChartBuilder](https://github.com/marinlevine/marinlevine.github.io/blob/main/ChartBuilder.png?raw=true)
+
+## Top 10 Fast Food Restaurants Worldwide by Value in 2019
