@@ -25,3 +25,4 @@ This data shows the relationship between whether people smoke and their income. 
 ![ChartBuilder](https://github.com/marinlevine/marinlevine.github.io/blob/main/ChartBuilder.png?raw=true)
 
 ## Top 10 Fast Food Restaurants Worldwide by Value in 2019
+![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/479d2db628ec8cd515359333de5a5be48687a79e/ChartBuilder%202.svg)
