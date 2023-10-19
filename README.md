@@ -25,7 +25,7 @@ This data shows the relationship between whether people smoke and their income. 
 ![ChartBuilder](https://github.com/marinlevine/marinlevine.github.io/blob/main/ChartBuilder.png?raw=true)
 
 ## Top 10 Fast Food Restaurants Worldwide by Value in 2019
-![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/daebe6e4cfc49f3feae0fbc29a0ea29504e76f38/life2.svg)
+![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/e5838c98a2476914530c9921e42b02fe5461b05c/life2.svg)
 
 ## % of students in Lehigh undergraduate colleges over the past ten years
 ![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/89412cdd6f6f9552da3f57419049355a2d461de5/%25%20of%20students.svg) 
