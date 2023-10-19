@@ -28,4 +28,4 @@ This data shows the relationship between whether people smoke and their income. 
 ![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/479d2db628ec8cd515359333de5a5be48687a79e/ChartBuilder%202.svg)
 
 ## % of students in Lehigh undergraduate colleges over the past ten years
-![ChartBuilder]
+![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/89412cdd6f6f9552da3f57419049355a2d461de5/%25%20of%20students.svg) 
