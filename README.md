@@ -29,3 +29,6 @@ This data shows the relationship between whether people smoke and their income. 
 
 ## % of students in Lehigh undergraduate colleges over the past ten years
 ![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/89412cdd6f6f9552da3f57419049355a2d461de5/%25%20of%20students.svg) 
+
+## Life satisfaction in Cantril Ladder (World Happiness Report 2019)
+![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/d7f74e44daa97f1560ccdae22c1d5de650e141cd/Life.svg)
