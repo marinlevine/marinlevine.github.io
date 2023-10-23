@@ -32,3 +32,6 @@ This data shows the relationship between whether people smoke and their income. 
 
 ## Life satisfaction in Cantril Ladder (World Happiness Report 2019)
 ![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/d7f74e44daa97f1560ccdae22c1d5de650e141cd/Life.svg)
+
+## SAT and GPA data for 1000 students at an unnamed college
+![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/380ff458e2804e3598bcc0cb788f043b02de76a3/SAT_and_GPA_data_for_1000_students_at_an_unnamed_college_High_school_grade_point_average._chartbuilder.svg)
