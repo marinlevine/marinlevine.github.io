@@ -42,3 +42,6 @@ Main findings & Implications: Students with a higher total of verbal and math SA
 
 ## 2019 World Top 20 Cycling Cities
 <iframe src="https://www.google.com/maps/d/embed?mid=1KKas7L7DCZ3mmOgYwZSRdNDCROzcYXk&ehbc=2E312F" width="640" height="480"></iframe>
+
+## Top 10 Best Food Cities in the World
+<iframe src="https://www.google.com/maps/d/embed?mid=1Q6fdVyG8xK2D8zjjJSEBVswsfJHoBv8&ehbc=2E312F" width="640" height="480"></iframe>
