@@ -28,7 +28,7 @@ This timeline represents the evolution of Apple products overtime. It also discu
 ![ChartBuilder](https://github.com/marinlevine/marinlevine.github.io/blob/main/ChartBuilder.png?raw=true)
 
 ## Top 10 Fast Food Restaurants Worldwide by Value in 2019
-![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/e5838c98a2476914530c9921e42b02fe5461b05c/life2.svg)
+![ChartBuilder](https://github.com/marinlevine/marinlevine.github.io/blob/main/_chartbuilder.png?raw=true)
 This chart is my homework for the "Bar/Column Chart assignment." This chart displays the top 10 fast food restaurants worldwide by value in 2019. It is not surprising to see that Mcdonalds is the top of the list. $130 Million is a very large amount of money and it drastically differs from the rest of the restaurants. I was very surprised to see that Taco Bell was at the bottom of the list though since it is very popular. 
 
 ## % of students in Lehigh undergraduate colleges over the past ten years
@@ -39,7 +39,8 @@ This chart is my homework for the "Bar/Column Chart assignment." This chart disp
 
 Textual description explaining the background: This is a data frame with 1000 observations of 6 variables which are (sex) Gender of the student, (sat_v) Verbal SAT percentile, (sat_m) Math SAT percentile, (sat_sum) Total of verbal and math SAT percentiles, (hs_gpa) High school grade point average (fy_gpa) First year (college) grade point average. I only took data from a few columns displaying (sat_sum) Total of verbal and math SAT percentiles, (hs_gpa) High school grade point average. 
 
-Main findings & Implications: Students with a higher total of verbal and math SAT percentiles tend to have a higher high school grade point average. However, the data is still mixed.
+Main findings & Implications: Students with a higher total of verbal and math SAT percentiles tend to have a higher high school grade point average. However, the data
+is still mixed.
 
 ## 2019 World Top 20 Cycling Cities
 <iframe src="https://www.google.com/maps/d/embed?mid=1KKas7L7DCZ3mmOgYwZSRdNDCROzcYXk&ehbc=2E312F" width="640" height="480"></iframe>
