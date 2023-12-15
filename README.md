@@ -34,9 +34,6 @@ This chart is my homework for the "Bar/Column Chart assignment." This chart disp
 ## % of students in Lehigh undergraduate colleges over the past ten years
 ![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/89412cdd6f6f9552da3f57419049355a2d461de5/%25%20of%20students.svg) 
 
-## Life satisfaction in Cantril Ladder (World Happiness Report 2019)
-![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/d7f74e44daa97f1560ccdae22c1d5de650e141cd/Life.svg)
-
 ## SAT and GPA data for 1000 students at an unnamed college
 ![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/380ff458e2804e3598bcc0cb788f043b02de76a3/SAT_and_GPA_data_for_1000_students_at_an_unnamed_college_High_school_grade_point_average._chartbuilder.svg)
 
@@ -49,6 +46,7 @@ Main findings & Implications: Students with a higher total of verbal and math SA
 
 ## Top 10 Best Food Cities in the World
 <iframe src="https://www.google.com/maps/d/embed?mid=1Q6fdVyG8xK2D8zjjJSEBVswsfJHoBv8&ehbc=2E312F" width="640" height="480"></iframe>
+This map shows the Top 10 best food cities in the world. Although I live in the United States, I thought it would be fun to research worldwide. After researching, I found that at the top of the list for best food was San Sebastian, Spain and the lowest was Seoul, Korea. The data was pretty scattered, since the culture of food is so different. From examining this data, I found that European countries are a hotspot for food, especially Italy. 
 
 ## Tableau
 <div class='tableauPlaceholder' id='viz1699248473855' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;Tableau_16989414408010&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Tableau_16989414408010&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;Tableau_16989414408010&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
