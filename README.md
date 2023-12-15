@@ -28,8 +28,8 @@ This timeline represents the evolution of Apple products overtime. It also discu
 ![ChartBuilder](https://github.com/marinlevine/marinlevine.github.io/blob/main/ChartBuilder.png?raw=true)
 
 ## Top 10 Fast Food Restaurants Worldwide by Value in 2019
-![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/e5838c98a2476914530c9921e42b02fe5461b05c/life2.svg
-This chart is my homework for the "Bar/Column Chart assignment." This chart displays the 
+![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/e5838c98a2476914530c9921e42b02fe5461b05c/life2.svg)
+This chart is my homework for the "Bar/Column Chart assignment." This chart displays the top 10 fast food restaurants worldwide by value in 2019. It is not surprising to see that Mcdonalds is the top of the list. $130 Million is a very large amount of money and it drastically differs from the rest of the restaurants. I was very surprised to see that Taco Bell was at the bottom of the list though since it is very popular. 
 
 ## % of students in Lehigh undergraduate colleges over the past ten years
 ![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/89412cdd6f6f9552da3f57419049355a2d461de5/%25%20of%20students.svg) 
