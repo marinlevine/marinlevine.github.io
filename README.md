@@ -14,8 +14,8 @@ This infographic displays data showing where percentage of students are from. Th
 
 This data shows the relationship between whether people smoke and their income. Regarding background information, this graph appeared on April 10, 2020 in a New York Times article that showed the change overtime in the distribution of U.S. income, education, health, family structure and employment. The method of gathering this data included showing the percentage of each income category that responded to a survey with either smoking “every day “or “some days.” The subgroups are in ascending order and show four household income categories. The overall key finding was that if the household income bracket is greater, the percentage who smoke “every day” or “some days" is less. The implications of the data highlight that there is an inverse relationship between smokiing and the amount of income. 
 For more info on this graph, refer to these two links: 
-(https://www.nytimes.com/2021/02/25/learning/whats-going-on-in-this-graph-smoking-income.html)
-(https://www.nytimes.com/interactive/2020/04/10/opinion/coronavirus-us-economy-inequality.html)
+[https://www.nytimes.com/2021/02/25/learning/whats-going-on-in-this-graph-smoking-income.html]
+[https://www.nytimes.com/interactive/2020/04/10/opinion/coronavirus-us-economy-inequality.html]
 
 ## LeLaf Timeline 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=134TrKxN-NJVj-yQYW2kSf5KUsr5d93KinnMO8WczCpg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
