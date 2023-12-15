@@ -11,21 +11,25 @@ This infographic displays data showing where percentage of students are from. Th
 
 ## Smoking & Income Data 
 ![Smoking & Income](https://github.com/marinlevine/marinlevine.github.io/blob/main/Smoking%20&%20Income.png?raw=tru)
-https://www.nytimes.com/2021/02/25/learning/whats-going-on-in-this-graph-smoking-income.html
 
 This data shows the relationship between whether people smoke and their income. Regarding background information, this graph appeared on April 10, 2020 in a New York Times article that showed the change overtime in the distribution of U.S. income, education, health, family structure and employment. The method of gathering this data included showing the percentage of each income category that responded to a survey with either smoking “every day “or “some days.” The subgroups are in ascending order and show four household income categories. The overall key finding was that if the household income bracket is greater, the percentage who smoke “every day” or “some days" is less. The implications of the data highlight that there is an inverse relationship between smokiing and the amount of income. 
+For more info on this graph, refer to these two links: 
+https://www.nytimes.com/2021/02/25/learning/whats-going-on-in-this-graph-smoking-income.html
+https://www.nytimes.com/interactive/2020/04/10/opinion/coronavirus-us-economy-inequality.html
 
 ## LeLaf Timeline 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=134TrKxN-NJVj-yQYW2kSf5KUsr5d93KinnMO8WczCpg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Apple Product Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=13W7Lns_3XaWqNwmLy08TGxe2j831X5P1bi9hTv14B3s&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+This timeline represents the evolution of Apple products overtime. It also discusses the achievements and fallbacks that owner Steve Jobs experiences throughout his job at Apple. The reason I decided to choose this timeline is because Apple has evolved so much in so litle time. Additonally, the reason I have decided to stop this timeline at the year 2017 instead of more current is because the information that I focused on only had product descriptions for that time, and I am not very familiar with the present day models that Apple is coming out with. This timeline does do a decent job of showing how advanced Apple has become compared to when the company first began. 
 
 ## Percent of Undergraduate Enrollment in each college at Lehigh 2021
 ![ChartBuilder](https://github.com/marinlevine/marinlevine.github.io/blob/main/ChartBuilder.png?raw=true)
 
 ## Top 10 Fast Food Restaurants Worldwide by Value in 2019
-![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/e5838c98a2476914530c9921e42b02fe5461b05c/life2.svg)
+![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/e5838c98a2476914530c9921e42b02fe5461b05c/life2.svg
+This chart is my homework for the "Bar/Column Chart assignment." This chart displays the 
 
 ## % of students in Lehigh undergraduate colleges over the past ten years
 ![ChartBuilder](https://raw.githubusercontent.com/marinlevine/marinlevine.github.io/89412cdd6f6f9552da3f57419049355a2d461de5/%25%20of%20students.svg) 
